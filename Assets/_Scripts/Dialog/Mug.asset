@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d37d292ebeabc85489d7dcc8abed5040, type: 3}
+  m_Name: Mug
+  m_EditorClassIdentifier: 
+  avatars: []
+  lines:
+  - spriteIndex: 0
+    text: Olha! Uma Caneca.
+    gotItem: 0
+    quizQuestion: {fileID: 0}
+    transitionTo: {x: 0, y: 0, z: 0}
+    hasTransition: 0
+    facingRight: 0
+    changeSprite: 0
+    sprite: {fileID: 0}
+    collider: {x: 0, y: 0}
+    offset: {x: 0, y: 0}
+    offsetDialog: 0
+    npc: {fileID: 0}
